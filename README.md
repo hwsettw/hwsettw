@@ -1,13 +1,10 @@
-<!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
   <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
 </h1>
-<h1 align="center">Hi 🙏 I'm Anastasia</h1>
+<h1 align="center">Hello Word! I'm Anastasia</h1>
 
 <h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Devops or Solidity. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills, also exploring the IT field to gain immense knowledge. Simply To make Money 💸. </h4>
 
@@ -15,8 +12,6 @@
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
 <h4> 
 <br> 🌱 I am currently working on and developing my programming skills.</br>
  <br> 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
@@ -29,8 +24,7 @@
   <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
   
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
+
 </div></h4>
 
 </div>
@@ -72,21 +66,6 @@
   </div>
   <div align="center"> 
   </div>
-    <!--<h2>⭐ Top Contributed Repo!</h2>
-       <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-      <br/>-->
-  </div>
-</div>
-
-<h2 align="center">Support Me 💰 </h2>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
- <!-- <a href="https://buymeacoffee.com/joshuathadi">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
-</p>
-
 
 <!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
