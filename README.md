@@ -9,7 +9,7 @@
 <h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Devops or Solidity. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills, also exploring the IT field to gain immense knowledge. Simply To make Money 💸. </h4>
 
   <h2>💫 About Me</h2>
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="300" src="https://github.com/hwsettw/hwsettw/blob/main/frieren%20javascript%20book.jpeg">
 
 
 <h4> 
