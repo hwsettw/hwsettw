@@ -31,16 +31,54 @@
 <br/>
 
 
-<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
-
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+<div>
+    <h2 align="center">📚 Languages & Tools I Have Placed My Hands On</h2>
+    <br/>
+<div>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+        <!-- Web Development -->
+        <div>
+            <h3 align="center">🌐 Web Development</h3>
+            <div align="center">
+                <img src="https://skillicons.dev/icons?i=bootstrap,html,css,figma,react,nextjs,vue,wordpress,tailwind" /><br>
+            </div>
+        </div>
+<div>
+        <!-- Backend Development -->
+        <div>
+            <h3 align="center">🛠️ Backend Development</h3>
+            <div align="center">
+                <img src="https://skillicons.dev/icons?i=php,nodejs,python,cs,mysql,postgres,mongodb,redis" /><br>
+            </div>
+        </div>
+<div>
+        <!-- DevOps -->
+        <div>
+            <h3 align="center">⚙️ DevOps</h3>
+            <div align="center">
+                <img src="https://skillicons.dev/icons?i=bash,linux,ubuntu,nginx,grafana,git,gitlab,ansible" /><br>
+            </div>
+        </div>
+<div>
+        <!-- Blockchain Development -->
+        <div>
+            <h3 align="center">🔗 Blockchain</h3>
+            <div align="center">
+                <img src="https://skillicons.dev/icons?i=solidity" /><br>
+            </div>
+        </div>
+<div>
+        <!-- Other -->
+        <div>
+            <h3 align="center">💡 Other</h3>
+            <div align="center">
+                <img src="https://skillicons.dev/icons?i=lua" /><br>
+            </div>
+        </div>
+    </div>
 </div>
 
-<br/>
+
 
 
 <div align="center">
