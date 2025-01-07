@@ -21,8 +21,9 @@
 
   
 
-  <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+  <a href="mailto:hwsettw.cry@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /> <a href="https://twitter.com/hwsettw" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a></a>
   
 
 </div></h4>
@@ -34,7 +35,6 @@
     <h2 align="center">📚 Languages & Tools I Have Placed My Hands On</h2>
     <br/>
 <div>
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
         <!-- Web Development -->
         <div>
             <h3 align="center">🌐 Web Development</h3>
