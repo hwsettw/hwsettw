@@ -8,21 +8,21 @@
 
 <h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Devops or Solidity. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills, also exploring the IT field to gain immense knowledge. Simply To make Money 💸. </h4>
 
- <h2>💫 About Me</h2>
+  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
 <h4> 
 <br> 🌱 I am currently working on and developing my programming skills.</br>
- <br> 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
+<br> 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
 <br> ⚡ Interest in Web3, BlockChain development and everything that exists in this world</br>
- <br> ✨ I only like perfection.</h4> <div align="left"> 
+<br> ✨ I only like perfection.</h4> <div align="left"> 
   <h3>🌟 Reach Me on:</h3>
 
   
 
   <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
   
 
 </div></h4>
@@ -41,7 +41,6 @@
 </div>
 
 <br/>
-
 
 
 <div align="center">
@@ -66,10 +65,3 @@
   </div>
   <div align="center"> 
   </div>
-
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
-
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
